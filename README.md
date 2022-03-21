@@ -1,6 +1,6 @@
 # rbp-nuxt-tailwind
 
-rbp: rizal boilerplate 😎  
+**rbp**: rizal boilerplate 😎  
 Barebone Nuxt 2 with Tailwind 3 boilerplate with no linting, no testing, no fuss, nothing, because why not.
 
 - Tailwind 3 installed using module [@nuxtjs/tailwindcss](https://tailwindcss.nuxtjs.org/)
