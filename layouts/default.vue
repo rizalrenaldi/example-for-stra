@@ -1,6 +1,5 @@
 <template>
-  <div class="h-screen antialiased bg-white dark:bg-zinc-900">
-    <Nav />
+  <div class="h-screen antialiased">
     <Nuxt />
   </div>
 </template>
